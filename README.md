@@ -6,3 +6,4 @@ Point of Sale System for Taco Truck
 1. Ability to view menu
 2. Add items to your cart
 3. Simplified payment system
+4. View receipts
